@@ -1,4 +1,4 @@
-const val Day = 1
+private const val Day = 1
 
 fun main() {
     val DayIdentifier = "Day${Day.toString().padStart(2,'0')}"
